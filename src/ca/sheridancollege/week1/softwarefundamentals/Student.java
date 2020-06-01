@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author Riddhi Shah
+ * @author Riddhi Shah -- May 2020
  */
 public class Student {
     
